@@ -15,3 +15,6 @@ A digital image is an array or a matrix of square pixels arranged in columns and
 
 ## RGB Channels
 Two dimensional colour images are also represented in RGB - 3 layers of 2 dimensional where thre layers represents res, blue and green.
+## Numpy for images
+
+For fliping, extracting features and for analyzing them Numpy is the most important library.
